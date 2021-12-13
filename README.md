@@ -14,6 +14,11 @@ I decided to post in on github in case some people needed it. ♥
 - Misc:
   - Displaying byte array to console in hex format
 
+#### Contributions:
+> If you find this library useful and have extensive knowledge in c++<br>
+and want to make it better, please do create a pull request<br>
+with proposed features, fixes or overall better implementations of<br>
+the methods this library uses.
 
 ## Docs:
 ----
